@@ -1,5 +1,4 @@
 
-#just a test
 #if defined(CONFIG_MICREL_SWITCH) || defined(CONFIG_NET_DSA_TAG_TAIL)
 #define HAVE_MICREL_SWITCH
 #endif
